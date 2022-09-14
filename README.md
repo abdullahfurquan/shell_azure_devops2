@@ -17,3 +17,19 @@
 
 ![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/4_make_all_b.PNG)
 
+
+##git hub actions 
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/5_github_actions1.PNG)
+
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/5_githb_acttions2.PNG )
+
+
+
+![alt text](https://github.com/abdullahfurquan/starter_file/blob/main/5_githhub_actions3.PNG)
+
+
+
+
