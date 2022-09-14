@@ -32,4 +32,7 @@
 
 
 
+status badge:
+[![Python application test with Github Actions](https://github.com/abdullahfurquan/shell_azure_devops2/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/abdullahfurquan/shell_azure_devops2/actions/workflows/pythonapp.yml)
+
 
